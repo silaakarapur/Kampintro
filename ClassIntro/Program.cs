@@ -7,6 +7,8 @@ namespace ClassIntro
         static void Main(string[] args)
         {
 
+
+
             kurs kurs1 = new kurs();
             kurs1.kursAdi = "C#";
             kurs1.egitmen = "engin demirog";
